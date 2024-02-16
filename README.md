@@ -11,7 +11,8 @@
 ### Steepest Ascent HC
 ### Simulated Annealing (not classical version)
 ## Evolutionary Strategies for parameter optimization on NIM game (lab2.ipynb)
-## Evolutionary Algorithms to optimize a benchmark function (lab10.ipynb)
+## Evolutionary Algorithms to optimize a benchmark function (lab9.ipynb)
+## Reinforcement Learning algorithm for Tic-Tac-Toe game (lab10.ipynb)
 
 # Project:
 # folder Quixo with various test case and a GUI in Tkinter
