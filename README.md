@@ -1,8 +1,6 @@
 # Code developed during course Computational Intelligence @ Polito during 2023/2024
-## lab progression is 1, Halloween, 2, 9, 10
 
-
-# Include :
+# Labs:
 ## Path Search algorithms (on trees), for discrete set covering problem (set_covering.ipynb):
 ### A*
 ### BFS
@@ -12,3 +10,8 @@
 ### Simulated Annealing HC
 ### Steepest Ascent HC
 ### Simulated Annealing (not classical version)
+## Evolutionary Strategies for parameter optimization on NIM game (lab2.ipynb)
+## Evolutionary Algorithms to optimize a benchmark function (lab10.ipynb)
+
+# Project:
+# folder Quixo with various test case and a GUI in Tkinter
