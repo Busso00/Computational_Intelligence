@@ -29,5 +29,5 @@ pip install tqdm
 Run code in full screen terminal:
 ```
 source .venv/bin/activate
-python ./Quixo/main.py
+python ./QuixoFinal/main.py
 ```
