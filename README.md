@@ -26,8 +26,15 @@ sudo apt install python3-tk
 pip install tqdm
 ```
 
-Run code in full screen terminal:
+Setup code Windows:
 ```
-source .venv/bin/activate
+python3 -m venv .venv
+.venv\Scripts\activate
+pip install numpy
+pip install tqdm
+```
+
+Run code in full screen terminal with activated venv:
+```
 python ./QuixoFinal/main.py
 ```
