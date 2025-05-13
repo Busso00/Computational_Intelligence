@@ -15,7 +15,7 @@
 ## Reinforcement Learning algorithm for Tic-Tac-Toe game (lab10.ipynb)
 
 # Project:
-# folder Quixo with various test case and a GUI in Tkinter
+Folder Quixo with various test case and a GUI in Tkinter
 
 Setup code Ubuntu:
 ```
