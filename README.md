@@ -16,3 +16,18 @@
 
 # Project:
 # folder Quixo with various test case and a GUI in Tkinter
+
+Setup code Ubuntu:
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install numpy
+sudo apt install python3-tk
+pip install tqdm
+```
+
+Run code in full screen terminal:
+```
+source .venv/bin/activate
+python ./Quixo/main.py
+```
